@@ -26,6 +26,7 @@ Using Python and data analytics techniques, the project explores engagement patt
 - Scikit-learn
 
 ## Analysis Performed
+## Visualizations
 
 ### Cohort Retention Analysis
 Retention rates were calculated based on signup month cohorts.
@@ -57,16 +58,14 @@ Predicted churn probability:54.45%
 
 ## Project Structure
 Retention_Analytics_Project
-│
-├── project2.py
-├── user_dataset.csv
-├── README.md
-│
-├── visuals
-│ ├── cohort_retention.png
-│ └── engagement_scatter.png
-│
-└── report
+
+1. project2.py
+2. user_dataset.csv
+3. README.md
+4. visuals
+ 4.1 cohort_retention.png
+ 4.2engagement_scatter.png
+5. report
 
 ## Key Insights
 - Higher weekly engagement reduces churn risk
